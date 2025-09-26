@@ -1,0 +1,11 @@
+[
+  { "city": "Delhi", "name": "GreenTech Recycler", "address": "123 Eco Lane, Delhi", "lat": 28.6139, "lng": 77.2090, "pin": 110001 },
+  { "city": "Mumbai", "name": "EcoDrop Center", "address": "45 Marine Drive, Mumbai", "lat": 19.0760, "lng": 72.8777, "pin": 400001 },
+  { "city": "Bangalore", "name": "ReUse Hub", "address": "78 MG Road, Bangalore", "lat": 12.9716, "lng": 77.5946, "pin": 560001 },
+  { "city": "Visakhapatnam", "name": "Tech Recycle Center", "address": "123 Beach Road, Visakhapatnam", "lat": 17.6868, "lng": 83.2185, "pin": 530001 },
+  { "city": "Vijayawada", "name": "Green Electronics Hub", "address": "456 MG Road, Vijayawada", "lat": 16.5062, "lng": 80.6480, "pin": 520001 },
+  { "city": "Guntur", "name": "E-Waste Disposal Point", "address": "789 Main Street, Guntur", "lat": 16.3067, "lng": 80.4365, "pin": 522002 },
+  { "city": "Kuchipudi", "name": "Kuchipudi Recycle Center", "address": "Near Kuchipudi Temple, Krishna District", "lat": 16.2326, "lng": 80.9932, "pin": 521136 }
+]
+
+
