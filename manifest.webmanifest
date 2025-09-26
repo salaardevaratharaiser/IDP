@@ -1,0 +1,11 @@
+{
+  "name": "E-Waste Recycling",
+  "short_name": "E-Waste",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": []
+}
+
+
